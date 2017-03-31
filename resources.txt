@@ -1,0 +1,4 @@
+### StephanGriesel.com Notes ###
+
+Video tutorial: https://www.youtube.com/watch?v=cKTDYSK0ArI&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY&index=2
+HTML Webpack Plugin project: https://github.com/jantimon/html-webpack-plugin
